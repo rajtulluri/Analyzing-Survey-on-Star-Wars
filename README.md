@@ -11,4 +11,4 @@ How many of the respondants like space-opera media franchises (Star Wars and Sta
 Which Characters are favorable and unfavorable to the fans?
 Which character is controversial, split between likes and dislikes?
 
-The detailed steps and code are in the notebook uploaded. Since the notebook contains Interactive plots which Github cannot render, the notebook can be viewed here - Link
+The detailed steps and code are in the notebook uploaded. Since the notebook contains Interactive plots which Github cannot render, the notebook can be viewed here - <a href="https://nbviewer.jupyter.org/github/rajtulluri/Analyzing-Survey-on-Star-Wars/blob/master/Analyzing%20Survey%20on%20Star%20Wars%20Fans.ipynb">Link</a>
